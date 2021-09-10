@@ -1,0 +1,4 @@
+discord.py==1.7.2
+py-mcpe-query==0.2.1
+py-mcpe-stats==0.1.3
+python-dotenv==0.17.1
